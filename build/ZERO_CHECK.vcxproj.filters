@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\tools\myRotTransMatrix\rotation_test_cpp\build\CMakeFiles\e765d23f492238fe65bfc29f1487f5e1\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{1DE8533E-EB37-3823-AD3C-889A47107BCD}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
